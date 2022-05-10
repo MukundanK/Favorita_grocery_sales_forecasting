@@ -41,5 +41,8 @@ Holidays and Events, with metadata
 # Instructions
 To activate environment:
 
-```$ conda env create --prefix ./env --file environment.yml
-$ conda activate ./env ```
+```
+$ conda env create --prefix ./env --file environment.yml
+$ conda activate ./env 
+```
+
