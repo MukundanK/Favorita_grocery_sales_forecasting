@@ -38,4 +38,8 @@ Holidays and Events, with metadata
 * Wages in the public sector are paid every two weeks on the 15 th and on the last day of the month. Supermarket sales could be affected by this.
 * A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
 
+# Instructions
+To activate environment:
 
+`$ conda env create --prefix ./env --file environment.yml`
+`$ conda activate ./env`
