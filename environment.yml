@@ -1,0 +1,17 @@
+name: favorita_sales_forecasting
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.9
+  - pip=21.1
+  - pandas=1.4
+  - matplotlib=3.5
+  - seaborn=0.11
+  - scikit-learn=1.0
+  - xgboost=1.5
+  - pip:
+    - numpy==1.22
+    - ipykernel==6.13
+    - jupyterlab==3.4

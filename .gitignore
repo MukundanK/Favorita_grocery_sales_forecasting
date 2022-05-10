@@ -1,0 +1,8 @@
+# environment folder
+env
+
+# this folder contains project data files
+data
+
+# system files
+.DS_store
